@@ -11,3 +11,4 @@ pydantic
 TTS
 soundfile
 transformers<4.44.0
+runpod~=1.7.6
